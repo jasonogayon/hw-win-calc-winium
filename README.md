@@ -1,4 +1,4 @@
-Auto-Calculator
+Win-Calculator
 ===============
 
 Source code for very basic Windows calculator automation examples, using [Winium](https://github.com/2gis/Winium):
