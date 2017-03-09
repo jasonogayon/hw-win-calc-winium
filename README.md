@@ -8,6 +8,10 @@ Source code for very basic Windows calculator automation examples, using [Winium
 * Multiplication
 * Division
 
+![alt text][demo]
+
+[demo]: https://github.com/jasonogayon/win-calculator/blob/master/screenshots/win-calculator.gif "Running Calculator Tests"
+
 ## Steps
 
 1. Install Java and Maven
@@ -16,3 +20,5 @@ Source code for very basic Windows calculator automation examples, using [Winium
 4. Open another command line of your choice, navigate to your local repo, then run the following: `mvn test -Dtest=CalculatorTests`
 
 Author: **Jason Ogayon**
+
+
